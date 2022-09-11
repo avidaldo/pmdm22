@@ -1,5 +1,5 @@
 # Programación Multimedia y Dispositivos Móviles 2022/23
-Programación Multimedia y Dispositivos Móviles. IES de Teis. Régimen de Adultos. Curso 2021-22.
+Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adultos y distancia. Curso 2022-23.
   
   
 ### [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
