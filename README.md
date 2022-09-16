@@ -27,7 +27,3 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 [Uso de Git en Android Studio](https://openwebinars.net/academia/portada/git-android-studio)  
 [cursokotlin.com](https://cursokotlin.com/)
 
-
-#### Libros de consulta utilizados en la preparación del módulo:
-- [Programming Kotlin - Venkat Subramaniam (2019)](https://pragprog.com/titles/vskotlin/programming-kotlin/)
-- [Java to Kotlin: A Refactoring Guidebook - Duncan McGregor & Nat Pryce (2021)](https://java-to-kotlin.dev/)
