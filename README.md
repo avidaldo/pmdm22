@@ -8,8 +8,8 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 
 ### Básico
 
-1. [Ciclo de vida de una activity en Java](https://github.com/avidaldo/android-ciclodevida-java)
-2. [Escuchadores de eventos en Java](https://github.com/avidaldo/android-eventos-java)
+1. [Escuchadores de eventos en Java](https://github.com/avidaldo/android-eventos-java)
+2. [Ciclo de vida de una activity en Java](https://github.com/avidaldo/android-ciclodevida-java)
 3. [Java y Kotlin en la misma App: Una activity en cada lenguaje](https://github.com/avidaldo/android-java-y-kotlin)
 4. [Ejemplo de View Binding en Kotlin](https://github.com/avidaldo/android-view-binding)
 5. [Gestión de eventos en Kotlin](https://github.com/avidaldo/android-eventos-kotlin)
