@@ -16,7 +16,14 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 6. [Gestión de eventos en Kotlin](https://github.com/avidaldo/android-eventos-kotlin)
 
 
+### JetPack Compose
 
+7. [Primeros ejemplos en Activities separadas (sin navegación)](https://github.com/avidaldo/jetpack-compose-nonav)
+
+
+
+
+### [Vídeos de clases](https://www.youtube.com/playlist?list=PLb-SkCRlWLK2orEKv012OmfmkE4WDoGTR)
 ### [Repositorio del curso anterior](https://github.com/avidaldo/pmdm21)
 
   
