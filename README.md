@@ -6,7 +6,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 
 ## Proyectos Android
 
-### Básico
+### Introducción y tecnologías clásicas
 
 1. [Listeners y formas de gestionar eventos básicos en Android con Java](https://github.com/avidaldo/android-eventos-java-intro)
 2. [Ciclo de vida de una activity en Java](https://github.com/avidaldo/android-ciclodevida-java)
@@ -14,6 +14,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 4. [Java y Kotlin en la misma App: Una activity en cada lenguaje](https://github.com/avidaldo/android-java-y-kotlin)
 5. [Ejemplo de View Binding en Kotlin](https://github.com/avidaldo/android-view-binding)
 6. [Gestión de eventos en Kotlin](https://github.com/avidaldo/android-eventos-kotlin)
+7. [Tirador de dados](https://github.com/avidaldo/android-tirador-dados)
 
 
 ### JetPack Compose
