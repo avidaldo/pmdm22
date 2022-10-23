@@ -1,9 +1,6 @@
 # Programación Multimedia y Dispositivos Móviles 2022/23
 Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adultos y distancia. Curso 2022-23.
-  
-  
-### [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
-
+ 
 ## Proyectos Android
 
 ### Introducción y tecnologías clásicas
@@ -16,23 +13,28 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 6. [Gestión de eventos en Kotlin](https://github.com/avidaldo/android-eventos-kotlin)
 7. [Tirador de dados](https://github.com/avidaldo/android-tirador-dados)
 
-
 ### JetPack Compose
 
-7. [Primeros ejemplos en Activities separadas (sin navegación)](https://github.com/avidaldo/jetpack-compose-nonav)
+1. [Primeros ejemplos en Activities separadas (sin navegación)](https://github.com/avidaldo/jetpack-compose-nonav)
 
 
-
-
-### [Vídeos de clases](https://www.youtube.com/playlist?list=PLb-SkCRlWLK2orEKv012OmfmkE4WDoGTR)
-### [Repositorio del curso anterior](https://github.com/avidaldo/pmdm21)
+## Otros recursos
+- [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
+- [Vídeos de clases](https://www.youtube.com/playlist?list=PLb-SkCRlWLK2orEKv012OmfmkE4WDoGTR)
+- [Repositorio del curso anterior](https://github.com/avidaldo/pmdm21)
 
   
-## Material externo  
+## Recursos externos
 
-[Curso Android Studio y kotlin desde cero](https://www.youtube.com/playlist?list=PLNdFk2_brsRdDzgiJSamO4vC0cAiRXcH4)  
-[Curso de introducción a Kotlin](https://openwebinars.net/academia/aprende/kotlin-para-android)  
-[Curso de Android en Kotlin](https://openwebinars.net/academia/portada/app-interactiva-kotlin)  
-[Uso de Git en Android Studio](https://openwebinars.net/academia/portada/git-android-studio)  
-[cursokotlin.com](https://cursokotlin.com/)
+### Cursos introductorios y de Kotlin
+- [Curso Android Studio y kotlin desde cero](https://www.youtube.com/playlist?list=PLNdFk2_brsRdDzgiJSamO4vC0cAiRXcH4)  
+- [Curso de introducción a Kotlin](https://openwebinars.net/academia/aprende/kotlin-para-android)  
+- [Curso de Android en Kotlin](https://openwebinars.net/academia/portada/app-interactiva-kotlin)  
+- [Uso de Git en Android Studio](https://openwebinars.net/academia/portada/git-android-studio)  
+- [cursokotlin.com](https://cursokotlin.com/)
+
+### Cursos de JetPack Compose
+- [Antonio Leiva](https://www.youtube.com/playlist?list=PLrn69hTK5FBwu7VmWBg76v23atiMqz_pY)
+- [Brais Moure](https://www.youtube.com/playlist?list=PLNdFk2_brsRclwvl8ruCo_q36jVbXcCCx)
+- [AristiDevs](https://www.youtube.com/playlist?list=PL8ie04dqq7_ORKWIwiaSTcyBKtasZtNUD)
 
