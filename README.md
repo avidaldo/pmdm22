@@ -15,7 +15,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 
 ### JetPack Compose
 
-1. [Primeros ejemplos en Activities separadas (sin navegación)](https://github.com/avidaldo/jetpack-compose-nonav)
+1. [Primeros ejemplos en Activities separadas (sin navegación)](https://github.com/avidaldo/jetpack-compose-nonav2)
 
 
 ## Otros recursos
