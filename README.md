@@ -20,6 +20,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 3. [Ejemplos en distintas pantallas usando navegación](https://github.com/avidaldo/jetpackcompose-ejemplos)
 4. [UI de la Calculadora de iOS](https://github.com/avidaldo/CalculatorPrep)
 5. [Temas](https://github.com/avidaldo/CursoComposeThemes)
+6. [Examen 1.er Trimestre](https://github.com/avidaldo/pmdm22-examen-1t)
 
 
 ## Otros recursos
