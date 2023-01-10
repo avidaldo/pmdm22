@@ -22,8 +22,8 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 5. [Temas](https://github.com/avidaldo/CursoComposeThemes)
 6. [Examen 1.er Trimestre](https://github.com/avidaldo/pmdm22-examen-1t)
 7. [Ejemplos de LazyLists](https://github.com/avidaldo/JetPackCompose-LazyLists)
-5. [Navegación en Compose](https://github.com/avidaldo/JetPackCompose-Navigation)
-6. [Ejemplos de manejo de estado en Compose](https://github.com/avidaldo/jetpack-compose-state)
+8. [Ejemplos de manejo de estado en Compose](https://github.com/avidaldo/jetpack-compose-state)
+9. [Navegación en Compose](https://github.com/avidaldo/JetPackCompose-Navigation)
 
 
 ## Otros recursos
