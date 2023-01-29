@@ -21,10 +21,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 4. [UI de la Calculadora de iOS](https://github.com/avidaldo/CalculatorPrep)
 5. [Temas](https://github.com/avidaldo/CursoComposeThemes)
 6. [Examen 1.er Trimestre](https://github.com/avidaldo/pmdm22-examen-1t)
-7. [Ejemplos de LazyLists](https://github.com/avidaldo/JetPackCompose-LazyLists)
-8. [Ejemplos de manejo de estado en Compose](https://github.com/avidaldo/jetpack-compose-state)
-9. [Navegación en Compose](https://github.com/avidaldo/JetPackCompose-Navigation)
-
+7. [Ejemplos de manejo de estado en Compose](https://github.com/avidaldo/jetpack-compose-state)
 
 ## Otros recursos
 - [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
