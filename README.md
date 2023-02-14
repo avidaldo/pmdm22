@@ -13,7 +13,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 6. [Gestión de eventos en Kotlin](https://github.com/avidaldo/android-eventos-kotlin)
 7. [Tirador de dados](https://github.com/avidaldo/android-tirador-dados)
 
-### JetPack Compose
+### UI con JetPack Compose
 
 1. [Primeros ejemplos en Activities separadas (sin navegación)](https://github.com/avidaldo/jetpack-compose-nonav2)
 2. [UI de la Calculadora de Windows](https://github.com/avidaldo/android-windows-calculator-ui)
@@ -21,7 +21,10 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 4. [UI de la Calculadora de iOS](https://github.com/avidaldo/CalculatorPrep)
 5. [Temas](https://github.com/avidaldo/CursoComposeThemes)
 6. [Examen 1.er Trimestre](https://github.com/avidaldo/pmdm22-examen-1t)
+
+## Estado en JetPack Compose
 7. [Ejemplos de manejo de estado en Compose](https://github.com/avidaldo/jetpack-compose-state)
+8. [Proyecto UI de chat](https://github.com/avidaldo/LazyColumn-proyect)
 
 ## Otros recursos
 - [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
