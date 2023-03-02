@@ -27,6 +27,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 1. [Manejo de estado en Compose: MutableState](https://github.com/avidaldo/jetpack-compose-state)
 2. [Proyecto Contadores](https://github.com/avidaldo/Compose-Contadores)
 3. [Proyecto UI de chat](https://github.com/avidaldo/LazyColumn-proyect)
+4. [Proyecto Lista de la compra](https://github.com/avidaldo/compose-shopping-list)
 
 ## Otros recursos
 - [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
