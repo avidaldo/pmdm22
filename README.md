@@ -28,6 +28,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 2. [Proyecto Contadores](https://github.com/avidaldo/Compose-Contadores)
 3. [Proyecto UI de chat](https://github.com/avidaldo/LazyColumn-proyect)
 4. [Proyecto Lista de la compra](https://github.com/avidaldo/compose-shopping-list)
+5. [Ejemplo simple de ViewModel](https://github.com/avidaldo/compose-ViewModel-simple)
 
 ## Otros recursos
 - [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
