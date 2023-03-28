@@ -30,6 +30,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 4. [Proyecto Lista de la compra](https://github.com/avidaldo/compose-shopping-list)
 5. [Ejemplo simple de ViewModel](https://github.com/avidaldo/compose-ViewModel-simple)
 6. [Ampliaciones Lista de la compra](https://github.com/avidaldo/compose-shopping-list-ampliaciones)
+7. [Examen 2º Trimeste](https://github.com/avidaldo/pmdm22-examen-2t)
 
 ## Otros recursos
 - [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
