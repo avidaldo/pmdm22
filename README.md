@@ -40,15 +40,10 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
   
 ## Recursos externos
 
-### Cursos introductorios y de Kotlin
-- [Curso Android Studio y kotlin desde cero](https://www.youtube.com/playlist?list=PLNdFk2_brsRdDzgiJSamO4vC0cAiRXcH4)  
-- [Curso de introducción a Kotlin](https://openwebinars.net/academia/aprende/kotlin-para-android)  
-- [Curso de Android en Kotlin](https://openwebinars.net/academia/portada/app-interactiva-kotlin)  
-- [Uso de Git en Android Studio](https://openwebinars.net/academia/portada/git-android-studio)  
-- [cursokotlin.com](https://cursokotlin.com/)
-
-### Cursos de JetPack Compose
+### Recursos de JetPack Compose
+- [develou.com](https://www.develou.com/)
+  - [Repositorio de ejemplos de Compose](https://github.com/jamesreve/android-jetpack-compose)
+  - [Guía de Kotlin](https://www.develou.com/guia-de-kotlin/)
 - [Antonio Leiva](https://www.youtube.com/playlist?list=PLrn69hTK5FBwu7VmWBg76v23atiMqz_pY)
 - [Brais Moure](https://www.youtube.com/playlist?list=PLNdFk2_brsRclwvl8ruCo_q36jVbXcCCx)
-- [AristiDevs](https://www.youtube.com/playlist?list=PL8ie04dqq7_ORKWIwiaSTcyBKtasZtNUD)
 
