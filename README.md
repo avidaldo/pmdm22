@@ -23,14 +23,19 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 6. [Examen 1.er Trimestre](https://github.com/avidaldo/pmdm22-examen-1t)
 7. [Introducción a LazyLists](https://github.com/avidaldo/JetPackCompose-LazyLists)
 
-### Estado en JetPack Compose
+### MutableState y ViewModel
 1. [Manejo de estado en Compose: MutableState](https://github.com/avidaldo/jetpack-compose-state)
 2. [Proyecto Contadores](https://github.com/avidaldo/Compose-Contadores)
 3. [Proyecto UI de chat](https://github.com/avidaldo/LazyColumn-proyect)
-4. [Proyecto Lista de la compra](https://github.com/avidaldo/compose-shopping-list)
+4. [Proyecto Lista de la compra (rama con MutableState)](https://github.com/avidaldo/compose-shopping-list/tree/addProducts)
 5. [Ejemplo simple de ViewModel](https://github.com/avidaldo/compose-ViewModel-simple)
 6. [Ampliaciones Lista de la compra](https://github.com/avidaldo/compose-shopping-list-ampliaciones)
 7. [Examen 2º Trimeste](https://github.com/avidaldo/pmdm22-examen-2t)
+
+### ViewModel y StateFlow
+1. [Fork del codelab oficial](https://github.com/avidaldo/compose-unscramble)
+2. [Proyecto Lista de la compra](https://github.com/avidaldo/compose-shopping-list)
+
 
 ## Otros recursos
 - [Apuntes de Kotlin](https://github.com/avidaldo/kotlin-apuntes)
