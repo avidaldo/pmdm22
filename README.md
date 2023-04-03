@@ -34,7 +34,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 
 ### ViewModel y StateFlow
 1. [Fork del codelab oficial](https://github.com/avidaldo/compose-unscramble)
-2. [Proyecto Lista de la compra](https://github.com/avidaldo/compose-shopping-list)
+2. [Proyecto lista de la compra migrado a StateFlow](https://github.com/avidaldo/compose-shopping-list)
 
 
 ## Otros recursos
