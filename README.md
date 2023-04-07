@@ -45,6 +45,11 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
   
 ## Recursos externos
 
+### Aportes de alumnos
+- [Actualizar dependencias de un proyecto](https://github.com/SalatielGenol/docs/blob/main/android-studio/actualizar-dependencias.md)
+- [Modificar nombre de un proyecto, y del paquete raiz](https://github.com/SalatielGenol/docs/blob/main/android-studio/modificar-nombre-proyecto.md)
+- [Explicación y uso de Snackbar con Jetpack Compose](https://github.com/SalatielGenol/explicacion-snackbar)
+
 ### Recursos de JetPack Compose
 - [develou.com](https://www.develou.com/)
   - [Repositorio de ejemplos de Compose](https://github.com/jamesreve/android-jetpack-compose)
