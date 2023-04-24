@@ -32,7 +32,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 6. [Ampliaciones Lista de la compra](https://github.com/avidaldo/compose-shopping-list-ampliaciones)
 7. [Examen 2º Trimeste](https://github.com/avidaldo/pmdm22-examen-2t)
 
-### ViewModel y StateFlow
+### ViewModel con StateFlow
 1. [Fork del codelab oficial](https://github.com/avidaldo/compose-unscramble)
 2. [Proyecto lista de la compra migrado a StateFlow](https://github.com/avidaldo/compose-shopping-list)
 
