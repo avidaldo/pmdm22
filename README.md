@@ -31,6 +31,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 5. [Ejemplo simple de ViewModel](https://github.com/avidaldo/compose-ViewModel-simple)
 6. [Ampliaciones Lista de la compra](https://github.com/avidaldo/compose-shopping-list-ampliaciones)
 7. [Examen 2º Trimeste](https://github.com/avidaldo/pmdm22-examen-2t)
+8. [Tres en raya con mutableStateMap](https://github.com/avidaldo/compose-tictactoe)
 
 ### ViewModel con StateFlow
 1. [Fork del codelab oficial](https://github.com/avidaldo/compose-unscramble)
