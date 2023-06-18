@@ -40,6 +40,7 @@ Programación Multimedia y Dispositivos Móviles. IES de Teis. Regímenes: adult
 ### Repaso
 1. [Login](https://github.com/avidaldo/loginUDF)
 2. [Examen 3.er Trimeste](https://github.com/avidaldo/pmdm22-examen-3t)
+3. [Examen Junio](https://github.com/avidaldo/pmdm22)
 
 
 ## Otros recursos
