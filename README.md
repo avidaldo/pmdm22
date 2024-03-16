@@ -25,12 +25,13 @@
 ### MutableState y ViewModel
 1. [Manejo de estado en Compose: MutableState](https://github.com/avidaldo/jetpack-compose-state)
 2. [Proyecto Contadores](https://github.com/avidaldo/Compose-Contadores)
-3. [Proyecto UI de chat](https://github.com/avidaldo/LazyColumn-proyect)
-4. [Proyecto Lista de la compra (rama con MutableState)](https://github.com/avidaldo/compose-shopping-list/tree/addProducts)
-5. [Ejemplo simple de ViewModel](https://github.com/avidaldo/compose-ViewModel-simple)
-6. [Ampliaciones Lista de la compra](https://github.com/avidaldo/compose-shopping-list-ampliaciones)
-7. [Examen 2º Trimeste](https://github.com/avidaldo/pmdm22-examen-2t)
-8. [Tres en raya con mutableStateMap](https://github.com/avidaldo/compose-tictactoe)
+3. [Tirador de dados con mutableState](https://github.com/avidaldo/android-state-dice)
+4. [Proyecto UI de chat](https://github.com/avidaldo/LazyColumn-proyect)
+5. [Proyecto Lista de la compra (rama con MutableState)](https://github.com/avidaldo/compose-shopping-list/tree/addProducts)
+6. [Ejemplo simple de ViewModel](https://github.com/avidaldo/compose-ViewModel-simple)
+7. [Ampliaciones Lista de la compra](https://github.com/avidaldo/compose-shopping-list-ampliaciones)
+8. [Examen 2º Trimeste](https://github.com/avidaldo/pmdm22-examen-2t)
+9. [Tres en raya con mutableStateMap](https://github.com/avidaldo/compose-tictactoe)
 
 ### ViewModel con StateFlow
 1. [Fork del codelab oficial](https://github.com/avidaldo/compose-unscramble)
