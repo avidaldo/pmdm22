@@ -28,10 +28,11 @@
 3. [Tirador de dados con mutableState](https://github.com/avidaldo/android-state-dice)
 4. [Proyecto UI de chat](https://github.com/avidaldo/LazyColumn-proyect)
 5. [Proyecto Lista de la compra (rama con MutableState)](https://github.com/avidaldo/compose-shopping-list/tree/addProducts)
-6. [Ejemplo simple de ViewModel](https://github.com/avidaldo/compose-ViewModel-simple)
-7. [Ampliaciones Lista de la compra](https://github.com/avidaldo/compose-shopping-list-ampliaciones)
-8. [Examen 2º Trimeste](https://github.com/avidaldo/pmdm22-examen-2t)
-9. [Tres en raya con mutableStateMap](https://github.com/avidaldo/compose-tictactoe)
+6. [Lista de la compra - Versión PFFP](https://github.com/avidaldo/ShoppingListPFFP)
+7. [Ejemplo simple de ViewModel](https://github.com/avidaldo/compose-ViewModel-simple)
+8. [Ampliaciones Lista de la compra](https://github.com/avidaldo/compose-shopping-list-ampliaciones)
+9. [Examen 2º Trimeste](https://github.com/avidaldo/pmdm22-examen-2t)
+10. [Tres en raya con mutableStateMap](https://github.com/avidaldo/compose-tictactoe)
 
 ### ViewModel con StateFlow
 1. [Fork del codelab oficial](https://github.com/avidaldo/compose-unscramble)
